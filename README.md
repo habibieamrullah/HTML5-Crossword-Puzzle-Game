@@ -4,3 +4,5 @@
  Just change the word list in ttss.js file. You can randomize words to play with, toggle to show or hide correct answers, and more.
  
  Watch the demo video here: https://www.youtube.com/watch?v=W6eiVQd_W08
+ 
+ Original crossword libary used in this project is here: https://github.com/dwmkerr/crosswords-js
