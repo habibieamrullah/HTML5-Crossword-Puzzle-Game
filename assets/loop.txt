@@ -1,4 +1,0 @@
-for(var i = 0; i < ttss.length; i++){
-	if(ttss[i].word.indexOf(",") > -1)
-		ttss.splice(i, 1)
-}
